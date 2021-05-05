@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://shameerpuri.github.io/train-spsa/sitemap.xml
